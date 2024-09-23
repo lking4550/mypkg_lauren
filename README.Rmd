@@ -24,7 +24,7 @@ The goal of BasicsTU is to ...
 
 You can install the development version of BasicsTU from [GitHub](https://github.com/) with:
 
-``` r
+``` {r}
 # install.packages("pak")
 pak::pak("lking4550/mypkg_lauren")
 ```
@@ -55,3 +55,4 @@ plot(pressure)
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
 
 Test edit
+# MAGGIE WAS HERE !
