@@ -16,6 +16,11 @@ You can install the development version of BasicsTU from
 ``` r
 # install.packages("pak")
 pak::pak("lking4550/mypkg_lauren")
+#> ! Using bundled GitHub PAT. Please add your own PAT using `gitcreds::gitcreds_set()`.
+#> 
+#> 
+#> ℹ No downloads are needed
+#> ✔ 1 pkg: kept 1 [1.7s]
 ```
 
 ## Example
@@ -51,4 +56,4 @@ You can also embed plots, for example:
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub and CRAN.
 
-Test edit
+Test edit \# MAGGIE WAS HERE !
